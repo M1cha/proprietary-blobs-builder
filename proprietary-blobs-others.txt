@@ -1,5 +1,8 @@
 # Camera
 lib/libmorpho_moviesolid.so # Xiaomi camera.msm8960.so
+# Camera (Xiaomi 4.4)
+lib/libmmcamera_frameproc.so
+lib/liboemcamera.so
 
 # RIL (Xiaomi 4.4, recompiled for kernel change)
 bin/efsks
