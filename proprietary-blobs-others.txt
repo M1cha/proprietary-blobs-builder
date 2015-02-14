@@ -16,6 +16,9 @@ lib/libril.so
 # Postprocessing (Oppo)
 app/PPPreference/PPPreference.apk
 
+# QuickBoot (Oppo msm8974)
+app/QuickBoot/QuickBoot.apk
+
 # GPS (Oppo)
 #app/com.qualcomm.location/com.qualcomm.location.apk
 #bin/gpsone_daemon
