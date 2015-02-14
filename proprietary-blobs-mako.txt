@@ -59,12 +59,12 @@ lib/liboemcrypto.so
 lib/libdrmdiag.so
 
 # GPS (requires RIL,netctrl)
-#lib/hw/gps.msm8960.so
-#lib/hw/flp.msm8960.so
-#lib/libloc_core.so
-#lib/libloc_eng.so
-#lib/libgps.utils.so
-#vendor/lib/libloc_api_v02.so
-#vendor/lib/libloc_ds_api.so
-#vendor/lib/libgeofence.so
-#vendor/lib/libizat_core.so
+lib/hw/gps.msm8960.so
+lib/hw/flp.msm8960.so
+lib/libloc_core.so
+lib/libloc_eng.so
+lib/libgps.utils.so
+vendor/lib/libloc_api_v02.so
+vendor/lib/libloc_ds_api.so
+vendor/lib/libgeofence.so
+vendor/lib/libizat_core.so
