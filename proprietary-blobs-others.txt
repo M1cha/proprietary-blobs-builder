@@ -10,6 +10,8 @@ bin/qcks
 # RIL (Xiaomi 4.4, fix typo for Italia operator and add some mobile operator)
 lib/libril-qc-qmi-1.so
 lib/libril-qcril-hook-oem.so
+# RIL (Xiaomi 4.4, mystical L compat and OP name fix)
+lib/libril.so
 
 # Postprocessing (Oppo)
 app/PPPreference/PPPreference.apk
