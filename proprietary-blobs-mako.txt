@@ -68,3 +68,6 @@ vendor/lib/libloc_api_v02.so
 vendor/lib/libloc_ds_api.so
 vendor/lib/libgeofence.so
 vendor/lib/libizat_core.so
+
+# Audio (to fix "ion_phys is not implemented by this heap
+lib/libacdbloader.so
