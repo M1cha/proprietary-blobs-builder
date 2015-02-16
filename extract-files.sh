@@ -39,7 +39,7 @@ fetch_file() {
 		mkdir -p $BASE/$DIR
 	fi
 
-	cp $SRC/system/$FILE $BASE/$DEST
+	cp $SRC/$FILE $BASE/$DEST
 	echo $DEST >> proprietary-blobs.txt.tmp
 }
 
