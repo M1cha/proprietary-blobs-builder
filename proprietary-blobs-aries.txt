@@ -115,10 +115,6 @@ lib/libdsucsd.so
 lib/libdss.so
 lib/libdsprofile.so
 
-# FMRadio
-bin/fmconfig
-bin/fm_qsoc_patches
-
 # Postprocessing
 bin/mm-pp-daemon
 lib/libmm-abl.so
