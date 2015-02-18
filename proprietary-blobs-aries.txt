@@ -1,4 +1,5 @@
 # Audio
+lib/libacdbloader.so
 lib/libaudcal.so
 lib/libaudioalsa.so
 
